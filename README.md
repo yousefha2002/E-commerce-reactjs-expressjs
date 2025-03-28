@@ -30,14 +30,10 @@ Store is an e-commerce web application offering a diverse range of products for 
 ### Screenshots
 Here are some screenshots from Store:
 
-![Screenshot 1](https://nafezly-production.fra1.cdn.digitaloceanspaces.com/uploads/portfolios/69390_649ddb53dfaf2_1688066899.webp)
-![Screenshot 2](https://nafezly-production.fra1.cdn.digitaloceanspaces.com/uploads/portfolios/69390_649ddb31e02e3_1688066865.webp)
-![Screenshot 3](https://nafezly-production.fra1.cdn.digitaloceanspaces.com/uploads/portfolios/69390_649ddb3ecafb6_1688066878.webp)
-![Screenshot 4](https://nafezly-production.fra1.cdn.digitaloceanspaces.com/uploads/portfolios/69390_649ddb44d7dce_1688066884.webp)
-![Screenshot 5](https://nafezly-production.fra1.cdn.digitaloceanspaces.com/uploads/portfolios/69390_649ddb4ad89ae_1688066890.webp)
-![Screenshot 6](https://nafezly-production.fra1.cdn.digitaloceanspaces.com/uploads/portfolios/69390_649ddb51e15e5_1688066897.webp)
-![Screenshot 7](https://nafezly-production.fra1.cdn.digitaloceanspaces.com/uploads/portfolios/69390_649ddb5804bfb_1688066904.webp)
-![Screenshot 8](https://nafezly-production.fra1.cdn.digitaloceanspaces.com/uploads/portfolios/69390_649ddb5b08dcd_1688066907.webp)
+![Screenshot 1](imgaes/shop1.webp)
+![Screenshot 1](imgaes/shop2.webp)
+![Screenshot 1](imgaes/shop3.webp)
+![Screenshot 1](imgaes/shop4.webp)
 
 ### Frontend Technologies and Skills
 - **React.js**: A JavaScript library for building user interfaces.
