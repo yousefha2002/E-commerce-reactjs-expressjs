@@ -30,10 +30,10 @@ Store is an e-commerce web application offering a diverse range of products for 
 ### Screenshots
 Here are some screenshots from Store:
 
-![Screenshot 1](shop1.webp)
-![Screenshot 1](shop2.webp)
-![Screenshot 1](shop3.webp)
-![Screenshot 1](shop4.webp)
+![Screenshot 1](photos/shop1.webp)
+![Screenshot 1](photos/shop2.webp)
+![Screenshot 1](photos/shop3.webp)
+![Screenshot 1](photos/shop4.webp)
 
 ### Frontend Technologies and Skills
 - **React.js**: A JavaScript library for building user interfaces.
