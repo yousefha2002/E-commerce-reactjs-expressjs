@@ -28,7 +28,7 @@ Store is an e-commerce web application offering a diverse range of products for 
   - Users can view their order history, including order status and tracking information.
 
 ### Screenshots
-Here are some screenshots from Magalaty:
+Here are some screenshots from Store:
 
 ![Screenshot 1](https://nafezly-production.fra1.cdn.digitaloceanspaces.com/uploads/portfolios/69390_649ddb53dfaf2_1688066899.webp)
 ![Screenshot 2](https://nafezly-production.fra1.cdn.digitaloceanspaces.com/uploads/portfolios/69390_649ddb31e02e3_1688066865.webp)
